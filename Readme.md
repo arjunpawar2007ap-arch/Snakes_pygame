@@ -2,6 +2,8 @@
 
 A classic Snake game built from scratch in Python using Pygame. No game engine, no abstractions just a game loop, a grid, and logic.
 
+![snakes](snakes.gif)
+
 ## How to Play
 
 Use WASD to control the snake:
